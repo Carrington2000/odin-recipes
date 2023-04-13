@@ -1,0 +1,1 @@
+This project is to demo and implement the html skills and knowledge aquired through the html Foundation course on the Odin Project. 
